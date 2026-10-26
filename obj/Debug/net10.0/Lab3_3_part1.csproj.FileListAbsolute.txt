@@ -1,0 +1,14 @@
+C:\Users\Arwy\Desktop\Lab3_3_part1\bin\Debug\net10.0\Lab3_3_part1.exe
+C:\Users\Arwy\Desktop\Lab3_3_part1\bin\Debug\net10.0\Lab3_3_part1.deps.json
+C:\Users\Arwy\Desktop\Lab3_3_part1\bin\Debug\net10.0\Lab3_3_part1.runtimeconfig.json
+C:\Users\Arwy\Desktop\Lab3_3_part1\bin\Debug\net10.0\Lab3_3_part1.dll
+C:\Users\Arwy\Desktop\Lab3_3_part1\bin\Debug\net10.0\Lab3_3_part1.pdb
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.AssemblyInfoInputs.cache
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.AssemblyInfo.cs
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.csproj.CoreCompileInputs.cache
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.dll
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\refint\Lab3_3_part1.dll
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.pdb
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\Lab3_3_part1.genruntimeconfig.cache
+C:\Users\Arwy\Desktop\Lab3_3_part1\obj\Debug\net10.0\ref\Lab3_3_part1.dll
